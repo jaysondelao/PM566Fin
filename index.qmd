@@ -1,0 +1,14 @@
+---
+title: "temp"
+---
+
+This is a Quarto website.
+
+if this is visible this works.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r, echo=FALSE}
+1 + 1
+plot(1:10)
+```
